@@ -29,7 +29,7 @@ const About = () => {
 
           <p>Founder of <a href='https://drabdigital.com' rel='dofollow' className='dark'>M/S DrabDigital</a> - Skilled in Developing Websites, Brand & UI/UX Design, Digital Marketing and Love to Share my Knowledge through Blogging and <a href='https://ankus.co/youtube' className='dark'>YouTube</a></p>
 
-          <p>Full Stack Developer and Designer specializing with 6+ Years of Experience in modern design & development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS, MySQL. Strong background in project management, Term Management and customer relations.</p>
+          <p>Full Stack Developer and Designer specializing with 6+ Years of Experience in modern design & development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS, MySQL. Strong background in project management, Team Management and customer relations.</p>
 
           <a href={AnkushCV} download className='btn primary'>{<AiOutlineDownload/>}Download CV</a>
         </div>
