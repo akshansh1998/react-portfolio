@@ -81,6 +81,13 @@ a {
     transition: var(--transition);
 }
 
+a.dark {
+    color:var(--color-primary);
+    font-weight: 600;
+}
+a.dark:hover {
+    text-decoration: underline;
+}
 /* GENERAL HEADING STYLES */
 h1, h2, h3, h4, h5, h6 {
     line-height: 1.1;

@@ -10,14 +10,8 @@ const Header = () => {
         </div>
         <h3>Ankush Anand</h3>
         <p>
-          Founder of DrabDigital Services - Skilled in Developing Websites,
-          Writing Content, Digital Marketing and Love to Share my Knowledge
-          through Blogging and YouTube. Full Stack Developer and Designer
-          specializing with 6+ Years of Experience in modern design &
-          development. Experienced with all stages of the development cycle for
-          dynamic web projects. Well-versed in numerous programming languages
-          including HTML5, PHP OOP, JavaScript, CSS, MySQL. Strong background in
-          project management, Term Management and customer relations.
+          Full Stack Developer and Designer
+          specializing with 6+ Years of Experience in Modern Design & Development.
         </p>
         <div className="header__cta">
           <a href="#contact" className='btn primary'>Let's Talk</a>
